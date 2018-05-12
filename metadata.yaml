@@ -1,0 +1,42 @@
+_repo: The-Tragedy-of-Wild-River-Valley_46437
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46437-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2014-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46437'
+  lccn: '06041217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Revenge -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Envy -- Juvenile fiction'
+- !lcsh 'Death -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+title: The Tragedy of Wild River Valley
+url: http://www.gutenberg.org/ebooks/46437
