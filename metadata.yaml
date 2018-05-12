@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2044
     wikipedia: http://www.readseries.com/auth-dm/finley1.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46437#The-Tragedy-of-Wild-River-Valley
 gutenberg_issued: '2014-07-28'
 gutenberg_type: Text
 identifiers:
